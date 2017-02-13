@@ -1,4 +1,4 @@
-![Jian Huang](https://github.com/fromhuangj/homepage/raw/master/hjn.png)
+![Jian Huang](https://github.com/fromhuangj/homepage/raw/master/hjnn.png)
 
 ### Welcome to Huang's Homepage.
 > * Jian Huang, Ph. D, Associate Professor 
