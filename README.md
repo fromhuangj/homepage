@@ -1,3 +1,4 @@
+![Jian Huang](https://github.com/fromhuangj/homepage/raw/master/hj.png)
 ### Welcome to Huang's Homepage.
 > * Jian Huang, Ph. D, Associate Professor 
 * [Head of Department of Translation \& Interpretation, College of Foreign Studies, Central University of Finance and Economics](http://sfs.cufe.edu.cn/xygk/jgsz/jxjg/74970.htm) 
