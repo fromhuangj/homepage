@@ -4,7 +4,7 @@
 > * Jian Huang, Ph. D, Associate Professor 
 * [Head of Department of Translation \& Interpretation, College of Foreign Studies, Central University of Finance and Economics](http://sfs.cufe.edu.cn/xygk/jgsz/jxjg/74970.htm) 
 * 39 South College Road, Haidian District,Beijing 100081, P.R.China (for FedEx type mails)
-* E-mail: `0020070017@cufe.edu.cn`   -OR-   `summerofhuj@sina.com`
+* E-mail: `0020070017@cufe.edu.cn`     -OR-     `summerofhj@sina.com`
 
 ### Courses Offered
 > * Listening to and interpreting spoken Business English 
