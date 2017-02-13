@@ -23,7 +23,7 @@
 
 ### Publications
 > * Paper
-> ** [2015] Huang Jian. Pros and cons of ted-based listening instruction for English majors in China: Students’ insights. Indonesian EFL Journal. (1), 37-44.
+>>* [2015] Huang Jian. Pros and cons of ted-based listening instruction for English majors in China: Students’ insights. Indonesian EFL Journal. (1), 37-44.
 > ** [2015] Huang Jian. Reconceptualization of the relationship between Formative assessment and summative assessment. 
 International Journal for Educational Studies, 8(1), 1-10 
 > ** [2015] Huang Yongliang \& Huang Jian. Abduction in Meaning-form Connections of English Vocabulary. Journal of Hebei Univessity (Philosophy and Social Science), 40(2), 57-60.
