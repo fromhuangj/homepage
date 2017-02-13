@@ -1,4 +1,4 @@
-![Zhen Yang](https://github.com/fromhuangj/DMSLab/raw/gh-pages/hj.png)
+![Zhen Yang](https://github.com/fromhuangj/homepage/raw/gh-pages/hj.png)
 
 ### Welcome to Data Mining & Security Lab.
 > * Zhen Yang, Ph. D, Associate Professor 
